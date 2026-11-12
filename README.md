@@ -1,4 +1,4 @@
-# LIGHTH00K Android APK
+# LIGHTH00K - Android APK
 
 Official signed Android app for the LIGHTH00K private cinema.
 
